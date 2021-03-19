@@ -147,6 +147,7 @@ main{
 }
 .header-img {
 	background: url(../img/Header-bg-min.png);
+	background-repeat: no-repeat;
 	background-position: center;
 	height: 750px;
 	width: 100%;
